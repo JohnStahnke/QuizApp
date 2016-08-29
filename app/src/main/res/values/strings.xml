@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question1">1 What property do you use to find size of an array?</string>
+    <string name="question2">2 What are the main components in android?</string>
+    <string name="question3">3 You can have a RelativeLayout be a child of a LinearLayout.</string>
+    <string name="question4">4 What does ADB stand for in android?</string>
+    <string name="question5">5 Data can be read from local source XML in android through</string>
+    <string name="question6">6 What is used for size for elements, DP or SP</string>
+
+    <!--checkboxes labels-->
+    <string name="q2chkbox1">Activity</string>
+    <string name="q2chkbox2">Services</string>
+    <string name="q2chkbox3">Broadcast Receiver</string>
+    <string name="q2chkbox4">Content provider</string>
+
+    <!--radio button question 3-->
+    <string name="q3rbtrue">True</string>
+    <string name="q3rbfalse">False</string>
+
+    <!--Submit Button -->
+    <string name="submitbutton">Submit</string>
+
+    <!--Score -->
+    <string name="score">Score</string>
+
+    <string name="reset">Reset</string>
+
+</resources>
